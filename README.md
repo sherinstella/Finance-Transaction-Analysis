@@ -1,6 +1,18 @@
 PROJECT OBJECTIVE:
 Analyze financial transaction data to uncover patterns, detect errors, assess customer behavior, and evaluate regional performance for better risk management and business decisions.
 
+DATASET:
+<a href="https://github.com/sherinstella/Finance-Transaction-Analysis/blob/main/Merchant_table.csv">Mechant Data</a>
+<a href="https://github.com/sherinstella/Finance-Transaction-Analysis/blob/main/cards_data.csv">Card Data</a>
+<a href="https://github.com/sherinstella/Finance-Transaction-Analysis/blob/main/users_data.csv">Users Data</a>
+NOTE:Transaction dataset not uploaded due to large file size, but dashboards and documentation are provided for reference.
+
+DASHBOARD:
+<a href="https://github.com/sherinstella/Finance-Transaction-Analysis/blob/main/Screenshot%202025-10-02%20094918.png">Executive Dashboard</a>
+<a href="https://github.com/sherinstella/Finance-Transaction-Analysis/blob/main/Screenshot%202025-10-02%20095041.png"> Regional Transactions</a>
+
+
+
 PROCESS:<br>
 Data Cleaning: Handled nulls, formatted dates, mapped MCC codes.<br>
 Modeling: Star schema with transactions_data as fact; related to users, cards, MCC, cities, and states.<br>
@@ -8,6 +20,7 @@ KPIs Created: Total Transactions, Avg Amount, Credit Utilization, DTI Ratio, Err
 Dashboards:<br>
 1)Executive: KPIs, MCC trends, transaction types, error tracking.<br>
 2)Regional: State/city-level insights, map visuals, online vs. physical trends.<br>
+
 
 QUESTION KPI'S:<br>
 What’s the total transaction volume and average amount?<br>
