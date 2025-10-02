@@ -1,14 +1,14 @@
 PROJECT OBJECTIVE:
 Analyze financial transaction data to uncover patterns, detect errors, assess customer behavior, and evaluate regional performance for better risk management and business decisions.
 
-DATASET:
+DATASET:<br>
 <a href="https://github.com/sherinstella/Finance-Transaction-Analysis/blob/main/Merchant_table.csv">Mechant Data</a><br>
 <a href="https://github.com/sherinstella/Finance-Transaction-Analysis/blob/main/cards_data.csv">Card Data</a><br>
 <a href="https://github.com/sherinstella/Finance-Transaction-Analysis/blob/main/users_data.csv">Users Data</a><br>
 NOTE:Transaction dataset not uploaded due to large file size, but dashboards and documentation are provided for reference.
 <br>
 <br>
-DASHBOARD:
+DASHBOARD:<br>
 <a href="https://github.com/sherinstella/Finance-Transaction-Analysis/blob/main/Screenshot%202025-10-02%20094918.png">Executive Dashboard</a><br>
 
 <a href="https://github.com/sherinstella/Finance-Transaction-Analysis/blob/main/Screenshot%202025-10-02%20095041.png"> Regional Transactions</a><br>
